@@ -1,7 +1,7 @@
 # test-video-in-readme
 
 test a
-![](docs/media/sandbox-password.mov)
+![text a](/docs/media/sandbox-password.mov)
 
 test b
-![](docs/media/screenshot.png)
+![text b](/docs/media/screenshot.png)
