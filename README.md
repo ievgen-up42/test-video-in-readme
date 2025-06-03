@@ -1,7 +1,12 @@
 # test-video-in-readme
 
+
+
+test t.2
+[![Watch the video t.2](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/docs/media/screenshot.png)](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/docs/media/sandbox-password.mov)
+
 test t.1
-[![Watch the video t1](/docs/media/screenshot.png)](/docs/media/sandbox-password.mov)
+[![Watch the video t.1](/docs/media/screenshot.png)](/docs/media/sandbox-password.mov)
 
 test a
 ![text a](/docs/media/sandbox-password.mov)
