@@ -1,5 +1,8 @@
 # test-video-in-readme
 
+test t.1
+[![Watch the video t1](/docs/media/screenshot.png)](/docs/media/sandbox-password.mov)
+
 test a
 ![text a](/docs/media/sandbox-password.mov)
 
