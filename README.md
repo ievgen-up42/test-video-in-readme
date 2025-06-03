@@ -1,6 +1,8 @@
 # test-video-in-readme
 
 
+test t.3
+[![Watch the video t.3](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/main/docs/media/screenshot.png)](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/main/docs/media/sandbox-password.mp4)
 
 test t.2
 [![Watch the video t.2](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/main/docs/media/screenshot.png)](https://raw.githubusercontent.com/ievgen-up42/test-video-in-readme/main/docs/media/sandbox-password.mov)
