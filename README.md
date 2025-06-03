@@ -5,3 +5,7 @@ test a
 
 test b
 ![text b](/docs/media/screenshot.png)
+
+test c
+![text a](/docs/media/sandbox-password.mp4)
+
